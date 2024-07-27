@@ -1,0 +1,17 @@
+
+.task-container {
+    border: 1px solid #ddd; /* Borde ligero alrededor del contenedor */
+    border-radius: 8px; /* Esquinas redondeadas */
+    padding: 16px; /* Espaciado interno */
+    margin: 16px 0; /* Espaciado externo arriba y abajo */
+    background-color: #f9f9f9; /* Fondo suave */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra ligera */
+  }
+  
+  .task-container h2 {
+    font-size: 1.5em; /* Tamaño de fuente más grande para el título */
+    margin-bottom: 12px; /* Espaciado debajo del título */
+    color: #333; /* Color de texto del título */
+  }
+  
+  
